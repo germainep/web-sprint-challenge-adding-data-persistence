@@ -62,7 +62,7 @@ The name given to the table column to reference the primary key for another tabl
 
 4. What do we need in order to have a _many to many_ relationship between two tables.
 
-In order to have a many to many relationship we need a table to link the two
+In order to have a many to many relationship we need a intermediary table to link the two
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 

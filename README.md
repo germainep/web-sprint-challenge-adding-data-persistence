@@ -48,11 +48,21 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Explain the difference between `Relational Databases` and `SQL`.
 
+Relational Datebases describe the structure of the database. SQL is the language used to query
+ the database.
+
 2. Why do tables need a `primary key`?
+
+The primary key give a unique identifier for the table.
 
 3. What is the name given to a table column that references the primary key on another table.
 
+The name given to the table column to reference the primary key for another table is the foreign
+ key.
+
 4. What do we need in order to have a _many to many_ relationship between two tables.
+
+In order to have a many to many relationship we need a table to link the two
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
